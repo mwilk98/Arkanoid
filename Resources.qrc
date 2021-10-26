@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/menu">
+        <file>res/menu/menu_main_bg.png</file>
+        <file>res/menu/BackgroundButton.png</file>
+        <file>res/menu/classic_bg.png</file>
+    </qresource>
+</RCC>
