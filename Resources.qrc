@@ -4,4 +4,7 @@
         <file>res/menu/BackgroundButton.png</file>
         <file>res/menu/classic_bg.png</file>
     </qresource>
+    <qresource prefix="/">
+        <file>res/game/wood.png</file>
+    </qresource>
 </RCC>
